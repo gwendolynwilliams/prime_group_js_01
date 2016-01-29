@@ -4,6 +4,7 @@ var boo = ["Boo", "11435", "54000", 3];
 var scout = ["Scout", "6243", "74750", 5];
 
 var employees = [atticus, jem, boo, scout];
+<<<<<<< HEAD
 
 var employeeSti = [];
 
@@ -76,3 +77,5 @@ function empInfo() {
 }
 
 empInfo();
+=======
+>>>>>>> b025e397e18a0ca3da9c600390c26b692d526d0e
